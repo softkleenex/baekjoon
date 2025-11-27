@@ -1,0 +1,1 @@
+{"name":"Local: 1260","url":"/Volumes/samsd/workspace_v2/baekjoon/11_13/1260.py","tests":[{"id":1763019420394,"input":"4 5 1\n1 2\n1 3\n1 4\n2 4\n3 4","output":"1 2 4 3\n1 2 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Volumes/samsd/workspace_v2/baekjoon/11_13/1260.py","group":"local","local":true}
