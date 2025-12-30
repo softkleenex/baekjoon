@@ -13,3 +13,7 @@ for i in range(t):
     while ans % 10 ==0:
         ans = ans // 10
     print(ans % 10)
+    
+    
+    
+    
